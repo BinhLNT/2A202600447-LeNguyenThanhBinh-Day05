@@ -58,7 +58,7 @@ Chọn **1 path yếu nhất** mà mình tìm được. Sketch trên giấy:
 
 ## Phần 4 — Share + vote (5 phút)
 
-- Nhóm em chọn nâng cấp Path 3 (Khi AI sai). Hiện tại Moni bắt user đi sâu vào menu để sửa category. Nhóm em đề xuất UI 'Gợi ý nhanh' ngay tại màn hình chính và thêm nút 'Remember this' để AI thực sự thông minh hơn sau mỗi lần user sửa lỗi, thay vì lặp lại lỗi cũ.
+- Em chọn nâng cấp Path 3 (Khi AI sai). Hiện tại Moni bắt user đi sâu vào menu để sửa category. Em đề xuất UI 'Gợi ý nhanh' ngay tại màn hình chính và thêm nút 'Remember this' để AI thực sự thông minh hơn sau mỗi lần user sửa lỗi, thay vì lặp lại lỗi cũ. Tuy nhiên cả nhóm đã thống nhất ý kiến và vote cho bài làm của bạn Ninh Quang Trí.
 
 ---
 
